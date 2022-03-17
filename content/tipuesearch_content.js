@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '40923225 \n', 'tags': '', 'url': 'About.html'}, {'title': '更新日誌', 'text': '3/10網頁 \n 3/12第一次推送(失敗) \n 3/13第二次推送(失敗) \n 3/16增加分組名單(推送失敗) \n 3/17重創網頁與倉儲(可以推送)', 'tags': '', 'url': '更新日誌.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '40923225 \n', 'tags': '', 'url': 'About.html'}, {'title': '更新日誌', 'text': '3-10網頁 \n 3-16新增分組名單 \n 3-17重創網頁與倉儲(可以推送)', 'tags': '', 'url': '更新日誌.html'}]};
