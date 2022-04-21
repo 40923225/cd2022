@@ -55,6 +55,9 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
+<v t="leo.20220421141309.1"><vh>w7</vh>
+<v t="leo.20220421141309.2"><vh>@edt.6.md</vh></v>
+</v>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
 </v>
@@ -88,6 +91,29 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20220421141309.1"></t>
+<t tx="leo.20220421141309.2">@language md
+---
+Title: w7
+Date: 202-04-17 11:00
+Category: Misc
+Tags: 2022pringCD
+Slug: w7_40923225
+Author: 40923225
+---
+
+2022 協同產品設計實習
+工作分配進度
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+Python
+----
+
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
