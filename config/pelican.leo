@@ -139,7 +139,7 @@ w7任務:
     4.各大組以程式方法執行上述任務的量化查驗後, 結合組員自評與互評流程後, 將各組員的評量結果存為 w7_cd2022ag1_evaluation.txt (以 2ag1 為例), 採允許各組組員與 yen@gm 共享下載進行設定.
 
 
-Flutter
+
 ----
 
 Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
@@ -151,8 +151,8 @@ Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
 Title: w7
 Date: 202-04-17 11:00
 Category: Misc
-Tags: 2022pringCD
-Slug: w7_40923225
+Tags: 2022SpringCD
+Slug: w7_summary
 Author: 40923225
 ---
 
