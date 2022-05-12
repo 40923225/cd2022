@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="https://40923225.github.io/cd2022/blog/" rel="alternate"></link><link href="https://40923225.github.io/cd2022/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40923225.github.io/cd2022/blog/</id><updated>2022-04-28T15:45:42+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="https://40923225.github.io/cd2022/blog/w6_40923225.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-04-28T15:45:42+08:00</updated><author><name>40923225</name></author><id>tag:40923225.github.io,2022-03-31:/cd2022/blog/w6_40923225.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T15:50:48+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./w6_40923225.html" rel="alternate"></link><published>2022-03-31T11:00:00+08:00</published><updated>2022-04-28T15:45:42+08:00</updated><author><name>40923225</name></author><id>tag:None,2022-03-31:./w6_40923225.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 協同產品設計實習&lt;/p&gt;
 
 
@@ -398,12 +398,14 @@
 &lt;p&gt;&lt;br&gt;&lt;br&gt;w3&lt;br&gt;指定任務:&lt;br&gt;這裡有 38 個比較接近 NX1980 版本功能的教學影片 (連結), 請以每一學員分配 5 個影片的原則, 由各學員在 w3 標題頁面中, 根據影片中的教學內容, 以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理, 完成後請將所負責的 Wink 教學影片嵌入個人與大分組的 w3 標題頁面中.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;分配影片名單:&lt;br&gt;40923250:1~5&lt;br&gt;40923241:6~10&lt;br&gt;40923219:11~15&lt;br&gt;40923225:16~20&lt;br&gt;40923246:21~25&lt;br&gt;40923232:26~30&lt;br&gt;40923236:31~35&lt;br&gt;40723217:36~38&lt;br&gt;&lt;br&gt;w6任務:&lt;br&gt;開啟頁面blog&lt;br&gt;https://40923225.github.io/cd2022/blog/pages/about/index.html&lt;br&gt;&lt;br&gt;w7任務:&lt;br&gt;&amp;nbsp;&amp;nbsp; 1. 各組組員以 Pelican 網誌 (w7_pick_and_place.html) 及 Reveal.js 簡報紀錄個人所完成的內容.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.各大組以 Pelican 網誌 (w7_pick_and_place.html) 及 Reveal.js 簡報摘要各大組任務執行結果.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3.各大組將所有完成的程式碼、編譯結果、MCAD 零組件檔案以及場景模擬檔案壓縮為 .7z (以 2ag1 大分組為例, 檔案名稱設為w7_pap_cd2022ag1.7z) 後, 送到組長的 @gm 帳號下的 OneDrive 共享區, 設定為只有 @gm 帳號登入者可以下載的共用權限後, 將連結發布在大組的 Pelican 網誌中.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.各大組以程式方法執行上述任務的量化查驗後, 結合組員自評與互評流程後, 將各組員的評量結果存為 w7_cd2022ag1_evaluation.txt (以 2ag1 為例), 採允許各組組員與 yen@gm 共享下載進行設定.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Python&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w7</title><link href="https://40923225.github.io/cd2022/blog/w7_summary.html" rel="alternate"></link><published>0202-04-17T11:00:00+08:06</published><updated>2022-04-28T15:03:50+08:00</updated><author><name>40923225</name></author><id>tag:40923225.github.io,0202-04-17:/cd2022/blog/w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
+&lt;p&gt;Python&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w7</title><link href="./w7_summary.html" rel="alternate"></link><published>0202-04-17T11:00:00+08:06</published><updated>2022-05-12T15:50:48+08:00</updated><author><name>40923225</name></author><id>tag:None,0202-04-17:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 協同產品設計實習
 工作分配進度&lt;/p&gt;
 
 
 &lt;h2&gt;Python&lt;/h2&gt;
-&lt;h2&gt;40923225&lt;/h2&gt;
+&lt;p&gt;40923225&lt;/p&gt;
+&lt;p&gt;&lt;img caption="false" height="588" src="/images/0020.jpg" width="1080"&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
